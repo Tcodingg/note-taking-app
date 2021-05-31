@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Home() {
-	return <section>Home</section>;
+	return <section className='home section bd-container'>Home</section>;
 }
